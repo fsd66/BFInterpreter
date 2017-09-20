@@ -1,4 +1,4 @@
-# BrainFuckInterpreter
+# BFInterpreter
 Java Interpreter for Brainfuck
 
 I decided to make an interpreter for Brainfuck just for fun.
